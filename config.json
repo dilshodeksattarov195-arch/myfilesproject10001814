@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingsalidate",
+        "uuid": 6798872,
+        "checksum": "rjiu9h"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
